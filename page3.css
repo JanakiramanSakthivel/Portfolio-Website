@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+   
+}
+
+body{
+    background:url(1337846.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+}
+
+#navbarNav{
+    justify-content: right;
+    padding: 10px;
+    position:relative;
+    font-weight: bold;
+}
+
+#about{
+    color: white;
+}
+
+#about:hover{
+    color: sandybrown;
+}
+
+#home{
+color: white;
+}
+
+#home:hover{
+color: sandybrown;
+}
+
+#project{
+    color: white;
+}
+
+#project:hover{
+    color: sandybrown;
+}
+
+#icon{
+    color: white;
+}
+
+
+#me{
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+#avail{
+    color: white;
+    font-weight: bold;
+}
+
+.In{
+    cursor: pointer;
+    display: inline;
+}
+
+.nau{
+    display: inline;
+    color: white;
+    cursor: pointer;
+}
+
+.hub{
+    display: inline;
+    color: white;
+    cursor: pointer;
+}
+
+.insta{
+    display: inline;
+    color: white;
+    cursor: pointer;
+}
+
+#proff{
+    color: white ;
+    font-weight: bold;
+    text-align: center;
+
+}
